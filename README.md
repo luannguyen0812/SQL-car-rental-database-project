@@ -4,14 +4,6 @@ A relational database design and implementation for a car rental service, built 
 
 The system models the full rental lifecycle — customer registration, vehicle inventory, reservations, active rentals, and payment processing — and demonstrates how a normalized schema can answer real operational questions around fleet performance, customer retention, and payment risk.
 
-## Team
-
-- Luan Nguyen
-- Auspicious Munemo
-- Bradley Chikwavarara
-- Benjamin Tawiah
-- Mirlan Ulanov
-
 ## Project overview
 
 Car rental businesses need to track a fleet of vehicles, manage customer records, coordinate reservations against availability, convert reservations into active rentals, and reconcile payments — all while enforcing rules like "a vehicle can't be double-booked." This project analyzes those requirements and translates them into an Entity-Relationship model, a normalized relational schema, and a working Oracle database populated with sample data.
