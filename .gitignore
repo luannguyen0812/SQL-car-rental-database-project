@@ -1,0 +1,8 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Office lock/temp files
+~$*.docx
+~$*.vsdm
+*.tmp
